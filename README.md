@@ -33,3 +33,11 @@ There are three different objects our spotter should find: Declarations, restric
   + ***Universal***:
   + ***Exitential***:
   + ***Definite***:
+
+# Pattern Matcher
+A pattern matcher, also known as a pattern matching engine or algorithm, is a software component or algorithm that searches for specified patterns within a given input or data. Pattern matching involves comparing a target string or data structure against a defined pattern to determine if there is a match. Here are a few tools/libraries commonly used:
+  + ***Mathematica***: 
+  + ***SymPy***: is a Python library for symbolic mathematics.
+  + ***Wolfram Language***: It allows you to define patterns and apply them to mathematical expressions to extract specific subexpressions or perform transformations based on those patterns.
+  + ***REmatch***: REMatch is a pattern matching library specifically designed for mathematical expressions. It provides a flexible pattern matching syntax and allows for matching and extracting subexpressions based on user-defined patterns. REMatch is implemented in Java and provides APIs for integrating with Java applications.
+  + ***XQuery and XSLZ***: XQuery and XSLT are XML processing languages, which provide powerful querying and transformation capabilities for XML-based documents, allowing you to define patterns and perform operations on mathematical formulas.
